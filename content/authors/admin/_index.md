@@ -2,12 +2,10 @@
 title: Moupiya Maji
 role: Astrophysicist
 avatar_filename: moupiya_photo.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational astrophysics
+  - Science communications
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,9 +40,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+Astrophysicist with extensive research experience in galaxies, star clusters, radiation transfer, computational astrophysics, and statistical data analysis. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have an academic background in both physics and astrophysics and have taught several theoretical and practical undergraduate courses, along with supervising master's student projects. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am interested in roles that combine teaching and research. I am also passionate about effective science communications and public outreach.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
