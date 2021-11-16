@@ -1,21 +1,14 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+Astrophysicist with extensive research experience in galaxies, star clusters, radiation transfer, computational astrophysics, and statistical data analysis. 
+
+I have an academic background in both physics and astrophysics and have taught several theoretical and practical undergraduate courses, along with supervising master's student projects. 
+
+I am interested in roles that combine teaching and research. I am also passionate about effective science communications and public outreach.
