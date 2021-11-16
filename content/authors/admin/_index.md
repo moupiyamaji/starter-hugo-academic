@@ -7,36 +7,30 @@ interests:
   - Computational astrophysics
   - Science communications
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?hl=en&user=TuPH6tQAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/moupiya-maji/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Geneva
+    url: https://www.unige.ch/sciences/astro/reionization/en/team/moupiya-maji/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: "PhD in Astronomy and Astrophysics "
+      institution: The Pennsylvania State University, University Park, PA, USA
+      year: 2021
+    - course: MS in Astronomy and Astrophysics
+      institution: The Pennsylvania State University, University Park, PA, USA
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MS in Physics
+      institution: Indian Institute of Science, Bangalore, India
+      year: 2012
+    - course: B.Sc. in Physics
+      institution: Presidency College, Calcutta University, Kolkata, India
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+email: moupiyamaji137@gmail.com
 superuser: true
 highlight_name: true
 ---
