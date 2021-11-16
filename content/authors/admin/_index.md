@@ -1,7 +1,7 @@
 ---
 title: Moupiya Maji
 role: Astrophysicist
-avatar_filename: moupiya_photo.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Computational astrophysics
@@ -40,4 +40,4 @@ I have an academic background in both physics and astrophysics and have taught s
 
 I am interested in roles that combine teaching and research. I am also passionate about effective science communications and public outreach.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Maji.pdf" "newtab" >}}resumé{{< /staticref >}}.
