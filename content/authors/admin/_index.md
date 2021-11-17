@@ -5,6 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Computational astrophysics
+  - Teaching
   - Science communications
 social:
   - icon: graduation-cap
