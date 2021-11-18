@@ -24,7 +24,7 @@ education:
       year: 2018
     - course: MS in Astronomy and Astrophysics
       institution: The Pennsylvania State University, University Park, PA, USA
-      year: 2012
+      year: 2014
     - course: MS in Physics
       institution: Indian Institute of Science, Bangalore, India
       year: 2012
