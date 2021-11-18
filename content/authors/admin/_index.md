@@ -21,7 +21,7 @@ education:
   courses:
     - course: "PhD in Astronomy and Astrophysics "
       institution: The Pennsylvania State University, University Park, PA, USA
-      year: 2021
+      year: 2018
     - course: MS in Astronomy and Astrophysics
       institution: The Pennsylvania State University, University Park, PA, USA
       year: 2012
