@@ -4,8 +4,8 @@ date_format: Jan 2006
 experience:
   - title: PostDoctoral Researcher
     company: U Geneva
-    #company_url: ""
-    #company_logo: org-gc
+    company_url: ""
+    company_logo: org-gc
     location: Geneva
     date_start: 2018
     date_end: 2021
