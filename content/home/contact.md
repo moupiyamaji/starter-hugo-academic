@@ -16,4 +16,4 @@ content:
 design:
   columns: "2"
 ---
-moupiyamaji137@gmail.com
+email moupiyamaji137@gmail.com
