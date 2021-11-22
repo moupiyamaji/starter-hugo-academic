@@ -6,7 +6,7 @@ weight: 40
 title: Teaching Experience
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
 ---
 **Instructor**
 
