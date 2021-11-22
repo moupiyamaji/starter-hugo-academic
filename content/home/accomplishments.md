@@ -26,14 +26,26 @@ item:
     organization_url: https://www.datacamp.com
     title: Object-Oriented Programming in R
     url: ""
-widget_id: Teaching Experience
+widget_id: awards
 headless: true
 weight: 50
-title: Teaching Experience
+title: Grants and Awards
 subtitle: null
 design:
   columns: "2"
 ---
-Instructor Introductory Astronomy lab 2018, 2017, 2013, 2012
+**Co-Investigator** of the international James Webb Space Telescope (JWST) Grant - 2021\
+Project Title - "LyC22 - Deep spectroscopic insights on star-forming galaxies 2.2 Gyr after the Big Bang"
 
-Taught the course on practical astronomy lab to undergraduate students ( 25 in each class) for 4 semesters. The course objective was to understand astronomy concepts using computer softwares, workbooks, presentations and observations through telescopes and planetarium. Developed the curriculum, taught class weekly, guided them through nighttime telescope observations, and graded the course.
+**Research Travel Grant**, Societe Academique de Geneve, University of Geneva - 2020
+
+**Co-Investigator** of international Hubble Space Telescope (HST) grant - 2017\
+Project Title - "Star Clusters in Tidal Debris: A UV Survey of Stellar Populations, Galaxy Interactions, and Evolution"
+
+Zaccheus Daniel **Fellowship**, The Pennsylvania State University - 2016, 2014
+
+Homer F. Braddock and Nellie H. and Oscar L. Roberts **Fellowships**, PennState - 2012
+
+**Junior Research Fellowship** (**JRF**) from **National Eligibility Test (NET), nationally ranked 36**th -  2011
+
+**Young Researcher Lindau Travel Award**, to attend Lindau Nobel Laureates Meetings, India - 2010
