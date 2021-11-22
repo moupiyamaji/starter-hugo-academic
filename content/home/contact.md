@@ -6,7 +6,7 @@ weight: 130
 title: Contact
 subtitle: null
 content:
-  autolink: true
+  autolink: false
 
 design:
   columns: "2"
