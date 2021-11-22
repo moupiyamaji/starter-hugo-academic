@@ -2,7 +2,7 @@
 widget: blank
 widget_id: teaching
 headless: true
-weight: 10
+weight: 30
 title: Teaching Experience
 subtitle: null
 design:
