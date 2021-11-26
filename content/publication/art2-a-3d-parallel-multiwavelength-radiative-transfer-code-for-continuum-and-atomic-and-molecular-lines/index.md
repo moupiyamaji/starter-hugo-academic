@@ -8,7 +8,7 @@ authors:
   - Gu M
   - Yajima H
   - Zhu Q
-  - "& Maji M"
+  - Maji M
 publication: Monthly Notices of the Royal Astronomical Society
 publication_short: Monthly Notices of the Royal Astronomical Society (MNRAS)
 draft: false
