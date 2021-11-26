@@ -12,7 +12,7 @@ authors:
   - J.
   - Hernquist
   - L. & Knebe
-  - A.
+  - A.(2017)
 publication: The Astrophysical Journal
 publication_short: ApJ
 draft: false
