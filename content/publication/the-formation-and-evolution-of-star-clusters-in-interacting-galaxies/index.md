@@ -14,13 +14,13 @@ authors:
   - L. & Knebe
   - A.
 publication: The Astrophysical Journal
-publication_short: 2017, ApJ, 844, 108.
+publication_short: ApJ
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-11-26T10:20:38.896Z
+date: 2021-11-26T10:27:49.647Z
 ---
 <https://ui.adsabs.harvard.edu/abs/2017ApJ...844..108M/abstract>
