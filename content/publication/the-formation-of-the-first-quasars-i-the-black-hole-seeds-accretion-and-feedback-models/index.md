@@ -10,7 +10,7 @@ authors:
   - Maji M
   - Yajima H
   - Schneider R & Hernquist L
-publication_short: Submitted to MNRAS
+publication_short: Submitted to Monthly Notices of the Royal Astronomical Society (MNRAS)
 draft: false
 featured: false
 image:
