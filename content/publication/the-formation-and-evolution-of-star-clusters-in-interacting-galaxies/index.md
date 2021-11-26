@@ -8,7 +8,7 @@ authors:
   - Li Y.
   - Charlton J.
   - Hernquist L.
-  - Knebe A. (2017)
+  - Knebe A.
 publication: The Astrophysical Journal
 publication_short: ApJ
 draft: false
@@ -17,6 +17,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-11-26T10:27:49.647Z
+date: 2017-11-26T10:27:49.647Z
 ---
 <https://ui.adsabs.harvard.edu/abs/2017ApJ...844..108M/abstract>
