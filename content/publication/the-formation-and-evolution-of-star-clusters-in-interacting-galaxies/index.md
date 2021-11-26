@@ -5,14 +5,14 @@ publication_types:
 authors:
   - Maji
   - M.
-  - Zhu
+  - Zhu Q.
   - Li
   - Y.
   - Charlton
   - J.
   - Hernquist
   - L. & Knebe
-  - A.(2017)
+  - A. (2017)
 publication: The Astrophysical Journal
 publication_short: ApJ
 draft: false
