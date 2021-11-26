@@ -17,6 +17,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-11-26T11:28:19.271Z
----
+
+date: "2020-05-01T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2021-11-26T10:27:00.000Z"---
 <https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.1919L/abstract>
