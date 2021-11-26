@@ -1,0 +1,22 @@
+---
+title: "ART2: a 3D parallel multiwavelength radiative transfer code for
+  continuum and atomic and molecular lines"
+publication_types:
+  - "2"
+authors:
+  - Li Y
+  - Gu M
+  - Yajima H
+  - Zhu Q
+  - "& Maji M"
+publication: Monthly Notices of the Royal Astronomical Society
+publication_short: Monthly Notices of the Royal Astronomical Society (MNRAS)
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2021-11-26T11:28:19.271Z
+---
+<https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.1919L/abstract>
