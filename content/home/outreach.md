@@ -2,7 +2,7 @@
 widget: blank
 widget_id: outreach
 headless: true
-weight: 100
+weight: 50
 title: Outreach
 subtitle: null
 design:
