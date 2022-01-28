@@ -3,7 +3,7 @@ widget: experience
 date_format: Jan 2006
 widget_id: research exp
 headless: true
-weight: 40
+weight: 30
 title: Research Experience
 subtitle: null
 design:
