@@ -3,7 +3,7 @@ widget: accomplishments
 date_format: Jan 2006
 widget_id: awards
 headless: true
-weight: 50
+weight: 60
 title: Grants and Awards
 subtitle: null
 design:
