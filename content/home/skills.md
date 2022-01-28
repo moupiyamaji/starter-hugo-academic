@@ -3,7 +3,7 @@ widget: featurette
 headless: true  # This file represents a page section.
 title: Skills
 design:
-  columns: "4"
+  columns: "2"
 feature:
   - icon: r-project
     icon_pack: fab
@@ -11,10 +11,10 @@ feature:
     # description: 90%
   - icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name: Data analysis
     # description: 100%
-  - icon: camera-retro
+  - icon: desktop
     icon_pack: fas
-    name: Photography
+    name: Cluster computing
     # description: 10%
 ---   
