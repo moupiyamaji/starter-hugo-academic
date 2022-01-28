@@ -8,7 +8,8 @@ subtitle: null
 design:
   columns: "2"
 ---
-* #### City Wide exhibition by U. Geneva Observatory - Volunteer 2018
+* #### City Wide exhibition by U. Geneva Observatory\\
+  Volunteer 2018
   Volunteered in a major city-wide public exhibition organized by the University of Geneva Astronomy
   department. Made educational posters and presented them to groups of visitors.
 * #### Graduate Women in Science PennState Chapter - Outreach Co-Chair, 2015 - 2016
