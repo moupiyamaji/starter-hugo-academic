@@ -2,6 +2,8 @@
 widget: featurette
 headless: true  # This file represents a page section.
 title: Skills
+design:
+  columns: "4"
 feature:
   - icon: r-project
     icon_pack: fab
