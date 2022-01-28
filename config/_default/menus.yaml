@@ -32,7 +32,7 @@ main:
     url: '#accomplishments'
     weight: 50
   - name: Publications
-    url: '#content/publication/'
+    url: '#content/publication/_index'
     weight: 60
   - name: Skills
     url: '#skills'
