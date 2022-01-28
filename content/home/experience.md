@@ -1,26 +1,3 @@
----
-widget: experience
-date_format: Jan 2006
-experience:
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ""
-    company_logo: org-x
-    location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
-widget_id: research exp
-headless: true
-weight: 40
-title: Research Experience
-subtitle: null
-design:
-  columns: "2"
-  background:
-    text_color_light: true
-    image_darken: 0
----
 **Universite de Geneve** - **PostDoctoral Research**     2018 - 2021
 
 * Simulated the radiative transfer of lyman alpha photons from thousands of galaxies in the hydrodynamical cosmological simulation SPHINX using 3D RT code RASCAS, analyzed the datasets consisting physical and radiative properties of the galaxies and investigated the correlations between their ionizing radiation and other observable properties and predicted that bright lyman alpha emitting galaxies are the primary sources of reionization.
