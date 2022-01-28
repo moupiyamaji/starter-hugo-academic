@@ -14,7 +14,7 @@ design:
 ---
 **Universite de Geneve** - **PostDoctoral Research**     2018 - 2021
 
-* Simulated TEST the radiative transfer of lyman alpha photons from thousands of galaxies in the hydrodynamical cosmological simulation SPHINX using 3D RT code RASCAS, analyzed the datasets consisting physical and radiative properties of the galaxies and investigated the correlations between their ionizing radiation and other observable properties and predicted that bright lyman alpha emitting galaxies are the primary sources of reionization.
+* Simulated the radiative transfer of lyman alpha photons from thousands of galaxies in the hydrodynamical cosmological simulation SPHINX using 3D RT code RASCAS, analyzed the datasets consisting physical and radiative properties of the galaxies and investigated the correlations between their ionizing radiation and other observable properties and predicted that bright lyman alpha emitting galaxies are the primary sources of reionization.
 * Built predictive statistical models using multivariate linear regression and showed that it is possible to predict the contribution of a galaxy towards reionization with a high degree of accuracy given their observable physical properties and Lyman alpha emission; such models can be very useful for planning future observing missions.
 
 **The Pennsylvania State University - Ph.D. Research**     2012 - 2018
