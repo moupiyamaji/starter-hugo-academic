@@ -8,10 +8,12 @@ title: Skills
 subtitle: null
 icon: r-project
 design:
+  columns: "2"
   background:
     text_color_light: true
 icon_pack: fab
 ---
+
 * R
 * High performance computing
 * Cluster computing
