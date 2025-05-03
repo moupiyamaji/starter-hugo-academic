@@ -12,7 +12,7 @@ design:
 
 * ***Introductory Astronomy lab***  - *2018, 2017, 2013, 2012*
 
-  Taught the course on practical astronomy lab to undergraduate students ( 25 in each class) for 4 semesters. The course objective was to understand astronomy concepts using computer softwares, workbooks, presentations and observations through telescopes and planetarium. Developed the curriculum, taught class weekly, guided them through nighttime telescope observations, and graded the course.
+  Taught the course on practical astronomy lab to undergraduate students ( 27 in each class) for 4 semesters. The course objective was to understand astronomy concepts using computer softwares, workbooks, presentations and observations through telescopes and planetarium. Developed the curriculum, taught class weekly, guided them through nighttime telescope observations, and graded the course.
 
 ### **Telescope & Planetarium Operator** 
 
