@@ -4,9 +4,10 @@ role: Astrophysicist
 avatar_filename: avatar.jpg
 bio: ""
 interests:
+  - Astronomy Education Research (AER)
   - Computational astrophysics
   - Teaching
-  - Science communications
+  - Science communications and Outreach
 social:
   - icon: graduation-cap
     icon_pack: fas
@@ -15,8 +16,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/moupiya-maji/
 organizations:
-  - name: University of Geneva
-    url: https://www.unige.ch/sciences/astro/reionization/en/team/moupiya-maji/
+  - name: IAU Office of Astronomy for Education (OAE) Center India
+    url: https://astro4edu.iucaa.in/
 education:
   courses:
     - course: "PhD in Astronomy and Astrophysics "
@@ -35,10 +36,12 @@ email: moupiyamaji137@gmail.com
 superuser: true
 highlight_name: true
 ---
-Astrophysicist with extensive research experience in galaxies, star clusters, radiation transfer, computational astrophysics, and statistical data analysis. 
+I am an astrophysicist and astronomy education researcher with a multidisciplinary background that
+bridges fundamental astrophysical research and science education. 
 
-I have an academic background in both physics and astrophysics and have taught several theoretical and practical undergraduate courses, along with supervising master's student projects. 
+My academic trajectory spans computational studies of the early universe, galaxy evolution, and stellar physics, as well as empirical
+research in science pedagogy, including a nationwide survey assessing astronomy knowledge and attitudes among school students in India. I am strongly committed to advancing evidence-based teaching practices and have led multiple teacher training workshops and mentoring initiatives. 
 
-I am interested in roles that combine teaching and research. I am also passionate about effective science communications and public outreach.
-
+My work is grounded in a broader vision of inclusive and effective science education, and I remain actively engaged
+in public outreach and science communication to promote scientific literacy.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Maji.pdf" "newtab" >}}resumé{{< /staticref >}}.
