@@ -8,7 +8,7 @@ authors:
   - Verhamme A
   - Roshdahl J et al
 author_notes: []
-publication_short: Submitted to Astronomy and Astrophysics (A&A)
+publication_short: (2022) Astronomy and Astrophysics (A&A)
 draft: false
 featured: false
 image:
