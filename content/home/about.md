@@ -7,8 +7,11 @@ title: Biography
 active: true
 author: admin
 ---
-Astrophysicist with extensive research experience in galaxies, star clusters, radiation transfer, computational astrophysics, and statistical data analysis. 
-
-I have an academic background in both physics and astrophysics and have taught several theoretical and practical undergraduate courses, along with supervising master's student projects. I am interested in roles that combine teaching and research. 
-
-I am also passionate about effective science communications and public outreach.
+I am an astrophysicist and astronomy education researcher with a multidisciplinary background that
+bridges fundamental astrophysical research and science education. My academic trajectory spans com-
+putational studies of the early universe, galaxy evolution, and stellar physics, as well as empirical
+research in science pedagogy, including a nationwide survey assessing astronomy knowledge and atti-
+tudes among school students in India. I am strongly committed to advancing evidence-based teaching
+practices and have led multiple teacher training workshops and mentoring initiatives. My work is
+grounded in a broader vision of inclusive and effective science education, and I remain actively engaged
+in public outreach and science communication to promote scientific literacy.
