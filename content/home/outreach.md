@@ -9,7 +9,8 @@ design:
   columns: "2"
 ---
 * #### National Science Day event at IUCAA
-  #### * Volunteer, 2023, 2024*
+  
+  #### *Volunteer, 2023, 2024*
   Delivered public talks; designed and conducted a public survey on astronomy and astrology awareness; trained and coordinated new volunteers, and supported event logistics at a major outreach program attended by 7,000–8,000 visitors.
 
 * #### City Wide exhibition by U. Geneva Observatory
