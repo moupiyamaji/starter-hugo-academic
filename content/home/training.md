@@ -42,7 +42,7 @@ focusing on current research and pedagogical approaches in astronomy.
 
 ### **Evaluation tools developer**
   
-  Developed and analyzed pre- and post-workshop surveys for the IU-
+*  Developed and analyzed pre- and post-workshop surveys for the IU-
 CAA and LIGO-India Teacher Training Workshop with 47 teachers; assessed the impact of LIGO’s
 children’s science book distributed to 500 students; created evaluation tools for various SciPop work-
 shops to measure educational impact and engagement.
