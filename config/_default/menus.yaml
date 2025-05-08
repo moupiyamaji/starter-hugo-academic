@@ -34,7 +34,7 @@ main:
     weight: 40
 
    - name: Teacher Training Activities
-    url: '#teachertrainingactivities'
+    url: '#training'
     weight: 50
     
   - name: Outreach
