@@ -32,22 +32,26 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 40
+
+   - name: Teacher Training Activities
+    url: '#teachertrainingactivities'
+    weight: 50
     
   - name: Outreach
     url: '#outreach'
-    weight: 50
+    weight: 60
     
   - name: Awards
     url: '#accomplishments'
-    weight: 60
+    weight: 70
   
   - name: Skills
     url: '#skills'
-    weight: 70
+    weight: 80
     
   - name: Contact
     url: '#contact'
-    weight: 80 
+    weight: 90 
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
