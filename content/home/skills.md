@@ -2,7 +2,7 @@
 widget: featurette
 headless: true  # This file represents a page section.
 title: Skills
-weight: 90
+weight: 80
 design:
   columns: "2"
 feature:
