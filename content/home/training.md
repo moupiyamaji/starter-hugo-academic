@@ -25,3 +25,24 @@ data to assess workshop impact.
 Reasons for Seasons (Feb 2023), Moon Phases (Feb 2024), and The Science of Stars (Aug 2024), in-
 corporating lectures, hands-on demonstrations, and the development of teaching resources addressing
 common misconceptions.
+
+### **Instructor**
+
+* ***Teacher Training Workshop, IAU OAE, Kolkata*** - *Dec 2023*
+  
+  Delivered a session for ∼ 30 school teachers on integrating astronomy into science lessons to enhance
+conceptual understanding and student engagement.
+
+### **Guest Lecturer**
+
+* ***Maharashtra State Faculty Development Academy,*** - *Jan 2024, Sep 2024*
+  
+  Delivered two lectures to college teachers: Evolution of Stars (Jan 2024) and Exoplanets (Sep 2024),
+focusing on current research and pedagogical approaches in astronomy.
+
+### **Evaluation tools developer**
+  
+  Developed and analyzed pre- and post-workshop surveys for the IU-
+CAA and LIGO-India Teacher Training Workshop with 47 teachers; assessed the impact of LIGO’s
+children’s science book distributed to 500 students; created evaluation tools for various SciPop work-
+shops to measure educational impact and engagement.
