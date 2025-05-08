@@ -3,11 +3,14 @@ widget: blank
 widget_id: outreach
 headless: true
 weight: 60
-title: Outreach
+title: Outreach and Science Communication
 subtitle: null
 design:
   columns: "2"
 ---
+
+* ### Outreach Activities
+
 * #### National Science Day event at IUCAA
   
   #### *Volunteer, 2023, 2024*
@@ -42,3 +45,22 @@ design:
   #### *Astronomer Volunteer, 2011 - 2012*
   Organized yearly public outreach event for the astronomy section of the physics department in the
   institute. Demonstrated science experiments and gave short informal talks to public.
+
+* ### Public talks
+
+  1. *Life in cosmos National Space Day, IIIT Pune,                Aug 2024*
+  
+  2. *Exoplanets AXSX (online talk),                               Apr 2024*
+  
+  3. *Are we alone in the Universe? National Science Day, IUCAA,  Feb 2024*
+  
+  4. *Story of the black holes Monthly Lecture Series, IUCAA,     Sep 2023*
+  
+  5. *Reasons for Seasons National Science Day, IUCAA,           Feb 2023*
+ 
+* ### Popular Science articles
+
+  Moupiya Maji, ’The Stardust in Us’, 5th issue of STEM Dorado Science magazine, pages 29-30,
+Oct 2024
+
+  Moupiya Maji, ’Exoplanets- how astronomers discover new worlds’, Club SciWri - Scientists Simplifying Science, May 2025
