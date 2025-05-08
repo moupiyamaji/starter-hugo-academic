@@ -33,7 +33,7 @@ main:
     url: '#teaching'
     weight: 40
 
-   - name: Teacher Training Activities
+  - name: Teacher Training Activities
     url: '#training'
     weight: 50
     
