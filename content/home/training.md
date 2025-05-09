@@ -26,8 +26,6 @@ Reasons for Seasons (Feb 2023), Moon Phases (Feb 2024), and The Science of Stars
 corporating lectures, hands-on demonstrations, and the development of teaching resources addressing
 common misconceptions.
 
-### **Instructor**
-
 * ***Teacher Training Workshop, IAU OAE, Kolkata*** - *Dec 2023*
   
   Delivered a session for ∼ 30 school teachers on integrating astronomy into science lessons to enhance
